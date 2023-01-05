@@ -1,0 +1,1 @@
+The question came up while i was commiting a project and realized i needed to make a small edit to a css file i had closed already and was wondering if i could open to edit the file from within git since i had it up.

@@ -1,0 +1,1 @@
+I understand git is not a launcher and is strictly for version control. Just want to know what options I have with the tools at hand.
