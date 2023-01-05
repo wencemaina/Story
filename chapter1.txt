@@ -1,0 +1,1 @@
+Basically when I'm working on a project I would like to be able to open a file from git. How to do this. Every tutorial seems to go over merge, clone, commit yes we all know these, how to do this simple command. Or is this not possible from within git?
